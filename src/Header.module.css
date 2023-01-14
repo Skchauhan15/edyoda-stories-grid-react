@@ -1,0 +1,17 @@
+.logo{
+   font-weight: 900;
+}
+.button{
+   height: 50px;
+   width: 150px;
+   background-color:#0084ff ;
+   color: white;
+   border-radius: 10%;
+   border: 1px solid black;
+}
+.headertitle{
+color: rgba(0, 0, 0, 0.45);
+}
+.rightside{
+   float: right;
+}
